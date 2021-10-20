@@ -6,10 +6,10 @@
             android:icon="@drawable/ic_baseline_person_24"
             android:title="내정보"/>
         <item android:id="@+id/schedule"
-            android:icon="@drawable/ic_baseline_person_24"
+            android:icon="@drawable/ic_baseline_event_note_24"
             android:title="일정관리"/>
         <item android:id="@+id/email"
-            android:icon="@drawable/ic_baseline_person_24"
+            android:icon="@drawable/ic_baseline_email_24"
             android:title="이메일"/>
 
     </group>
